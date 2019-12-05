@@ -689,23 +689,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\divyesh.patel\\.nuget\\packages\\": {},
+    "C:\\Users\\ankit.patel\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\divyesh.patel\\Documents\\Visual Studio 2017\\Projects\\ECommerce.Web\\ECommerce.BusinessEntities\\ECommerce.BusinessEntities.csproj",
+      "projectUniqueName": "C:\\Users\\ankit.patel\\Source\\Repos\\divyesh2123\\Ecommerce\\ECommerce.BusinessEntities\\ECommerce.BusinessEntities.csproj",
       "projectName": "ECommerce.BusinessEntities",
-      "projectPath": "C:\\Users\\divyesh.patel\\Documents\\Visual Studio 2017\\Projects\\ECommerce.Web\\ECommerce.BusinessEntities\\ECommerce.BusinessEntities.csproj",
-      "packagesPath": "C:\\Users\\divyesh.patel\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\divyesh.patel\\Documents\\Visual Studio 2017\\Projects\\ECommerce.Web\\ECommerce.BusinessEntities\\obj\\",
+      "projectPath": "C:\\Users\\ankit.patel\\Source\\Repos\\divyesh2123\\Ecommerce\\ECommerce.BusinessEntities\\ECommerce.BusinessEntities.csproj",
+      "packagesPath": "C:\\Users\\ankit.patel\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ankit.patel\\Source\\Repos\\divyesh2123\\Ecommerce\\ECommerce.BusinessEntities\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\divyesh.patel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ankit.patel\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

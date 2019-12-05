@@ -559,7 +559,6 @@
       "path": "netstandard.library/2.0.3",
       "files": [
         ".nupkg.metadata",
-        ".signature.p7s",
         "LICENSE.TXT",
         "THIRD-PARTY-NOTICES.TXT",
         "build/netstandard2.0/NETStandard.Library.targets",
@@ -695,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ankit.patel\\Source\\Repos\\divyesh2123\\Ecommerce\\ECommerce.BusinessLogics\\ECommerce.BusinessLogics.csproj",
-      "projectName": "ECommerce.BusinessLogics",
-      "projectPath": "C:\\Users\\ankit.patel\\Source\\Repos\\divyesh2123\\Ecommerce\\ECommerce.BusinessLogics\\ECommerce.BusinessLogics.csproj",
+      "projectUniqueName": "C:\\Users\\ankit.patel\\Source\\Repos\\divyesh2123\\Ecommerce\\ECommerce.DataEntities\\ECommerce.DataEntities.csproj",
+      "projectName": "ECommerce.DataEntities",
+      "projectPath": "C:\\Users\\ankit.patel\\Source\\Repos\\divyesh2123\\Ecommerce\\ECommerce.DataEntities\\ECommerce.DataEntities.csproj",
       "packagesPath": "C:\\Users\\ankit.patel\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ankit.patel\\Source\\Repos\\divyesh2123\\Ecommerce\\ECommerce.BusinessLogics\\obj\\",
+      "outputPath": "C:\\Users\\ankit.patel\\Source\\Repos\\divyesh2123\\Ecommerce\\ECommerce.DataEntities\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
