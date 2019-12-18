@@ -3,15 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.902
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ECommerce.Web", "ECommerce.Web\ECommerce.Web.csproj", "{3DF74408-38B5-4629-A347-51CCE97C6B2C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ECommerce.Web", "ECommerce.Web\ECommerce.Web.csproj", "{3DF74408-38B5-4629-A347-51CCE97C6B2C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ECommerce.BusinessEntities", "ECommerce.BusinessEntities\ECommerce.BusinessEntities.csproj", "{F972B78A-8B32-4072-8E9A-A92F46B7D34C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ECommerce.BusinessEntities", "ECommerce.BusinessEntities\ECommerce.BusinessEntities.csproj", "{F972B78A-8B32-4072-8E9A-A92F46B7D34C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ECommerce.BusinessLogics", "ECommerce.BusinessLogics\ECommerce.BusinessLogics.csproj", "{F35729E0-1244-4101-932C-EC3DED04EC25}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ECommerce.BusinessLogics", "ECommerce.BusinessLogics\ECommerce.BusinessLogics.csproj", "{F35729E0-1244-4101-932C-EC3DED04EC25}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ECommerce.DataEntities", "ECommerce.DataEntities\ECommerce.DataEntities.csproj", "{808DACA5-30D8-455F-8A5D-1DF00D44A9FF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ECommerce.DataEntities", "ECommerce.DataEntities\ECommerce.DataEntities.csproj", "{808DACA5-30D8-455F-8A5D-1DF00D44A9FF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ECommerce.DataAccess", "ECommerce.DataAccess\ECommerce.DataAccess.csproj", "{C46F6CEB-59CD-470B-B3C8-D68234A27978}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ECommerce.DataAccess", "ECommerce.DataAccess\ECommerce.DataAccess.csproj", "{C46F6CEB-59CD-470B-B3C8-D68234A27978}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication1", "WebApplication1\WebApplication1.csproj", "{CACB9CE2-DFD5-4B2E-B952-FB773F74B209}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{C46F6CEB-59CD-470B-B3C8-D68234A27978}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C46F6CEB-59CD-470B-B3C8-D68234A27978}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C46F6CEB-59CD-470B-B3C8-D68234A27978}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CACB9CE2-DFD5-4B2E-B952-FB773F74B209}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CACB9CE2-DFD5-4B2E-B952-FB773F74B209}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CACB9CE2-DFD5-4B2E-B952-FB773F74B209}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CACB9CE2-DFD5-4B2E-B952-FB773F74B209}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

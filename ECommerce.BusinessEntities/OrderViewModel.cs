@@ -2,7 +2,7 @@
 
 namespace ECommerce.BusinessEntities
 {
-    public class Class1
+    public class OrderViewModel
     {
     }
 }

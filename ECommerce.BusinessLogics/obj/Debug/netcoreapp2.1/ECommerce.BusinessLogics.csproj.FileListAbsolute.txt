@@ -1,0 +1,9 @@
+C:\Users\ankit.patel\source\repos\divyesh2123\Ecommerce\ECommerce.BusinessLogics\bin\Debug\netcoreapp2.1\ECommerce.BusinessLogics.deps.json
+C:\Users\ankit.patel\source\repos\divyesh2123\Ecommerce\ECommerce.BusinessLogics\bin\Debug\netcoreapp2.1\ECommerce.BusinessLogics.dll
+C:\Users\ankit.patel\source\repos\divyesh2123\Ecommerce\ECommerce.BusinessLogics\bin\Debug\netcoreapp2.1\ECommerce.BusinessLogics.pdb
+C:\Users\ankit.patel\source\repos\divyesh2123\Ecommerce\ECommerce.BusinessLogics\obj\Debug\netcoreapp2.1\ECommerce.BusinessLogics.csproj.CoreCompileInputs.cache
+C:\Users\ankit.patel\source\repos\divyesh2123\Ecommerce\ECommerce.BusinessLogics\obj\Debug\netcoreapp2.1\ECommerce.BusinessLogics.AssemblyInfoInputs.cache
+C:\Users\ankit.patel\source\repos\divyesh2123\Ecommerce\ECommerce.BusinessLogics\obj\Debug\netcoreapp2.1\ECommerce.BusinessLogics.AssemblyInfo.cs
+C:\Users\ankit.patel\source\repos\divyesh2123\Ecommerce\ECommerce.BusinessLogics\obj\Debug\netcoreapp2.1\ECommerce.BusinessLogics.dll
+C:\Users\ankit.patel\source\repos\divyesh2123\Ecommerce\ECommerce.BusinessLogics\obj\Debug\netcoreapp2.1\ECommerce.BusinessLogics.pdb
+C:\Users\ankit.patel\source\repos\divyesh2123\Ecommerce\ECommerce.BusinessLogics\obj\Debug\netcoreapp2.1\ECommerce.BusinessLogics.csprojAssemblyReference.cache

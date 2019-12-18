@@ -4,7 +4,7 @@ using System.Text;
 
 namespace ECommerce.DataEntities.Models
 {
-    public class OrderDetail
+    public class OrderDetail : DefaultModel
     {
         public ProductCatalog productCatalog { get; set; }
         public Product products { get; set; }

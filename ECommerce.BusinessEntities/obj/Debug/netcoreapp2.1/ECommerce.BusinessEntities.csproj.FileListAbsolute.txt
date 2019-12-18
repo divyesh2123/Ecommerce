@@ -1,0 +1,9 @@
+C:\Users\ankit.patel\source\repos\divyesh2123\Ecommerce\ECommerce.BusinessEntities\bin\Debug\netcoreapp2.1\ECommerce.BusinessEntities.deps.json
+C:\Users\ankit.patel\source\repos\divyesh2123\Ecommerce\ECommerce.BusinessEntities\bin\Debug\netcoreapp2.1\ECommerce.BusinessEntities.dll
+C:\Users\ankit.patel\source\repos\divyesh2123\Ecommerce\ECommerce.BusinessEntities\bin\Debug\netcoreapp2.1\ECommerce.BusinessEntities.pdb
+C:\Users\ankit.patel\source\repos\divyesh2123\Ecommerce\ECommerce.BusinessEntities\obj\Debug\netcoreapp2.1\ECommerce.BusinessEntities.csproj.CoreCompileInputs.cache
+C:\Users\ankit.patel\source\repos\divyesh2123\Ecommerce\ECommerce.BusinessEntities\obj\Debug\netcoreapp2.1\ECommerce.BusinessEntities.AssemblyInfoInputs.cache
+C:\Users\ankit.patel\source\repos\divyesh2123\Ecommerce\ECommerce.BusinessEntities\obj\Debug\netcoreapp2.1\ECommerce.BusinessEntities.AssemblyInfo.cs
+C:\Users\ankit.patel\source\repos\divyesh2123\Ecommerce\ECommerce.BusinessEntities\obj\Debug\netcoreapp2.1\ECommerce.BusinessEntities.dll
+C:\Users\ankit.patel\source\repos\divyesh2123\Ecommerce\ECommerce.BusinessEntities\obj\Debug\netcoreapp2.1\ECommerce.BusinessEntities.pdb
+C:\Users\ankit.patel\source\repos\divyesh2123\Ecommerce\ECommerce.BusinessEntities\obj\Debug\netcoreapp2.1\ECommerce.BusinessEntities.csprojAssemblyReference.cache
